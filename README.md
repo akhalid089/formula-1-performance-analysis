@@ -1,4 +1,4 @@
-# formula-1-performance-analysis
+# Formula-1-performance-analysis
 
 ## Overview
 
