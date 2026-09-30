@@ -1,0 +1,12 @@
+The dataset us project contains historical Formula 1 race data.
+
+The following files were used in the analysis:
+
+- races.csv
+- results.csv
+- drivers.csv
+- constructors.csv
+- qualifying.csv
+
+The raw data is not included in this repository.
+It can be obtained from the original dataset source:
